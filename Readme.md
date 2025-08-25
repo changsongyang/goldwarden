@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Development paused indefinitely. Please see: https://github.com/quexten/goldwarden/issues/331#issuecomment-3221660132
+
 <img src="https://raw.githubusercontent.com/quexten/goldwarden/main/gui/com.quexten.Goldwarden.svg" width=200>
 
 # Goldwarden
