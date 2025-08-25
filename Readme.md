@@ -1,5 +1,8 @@
 > [!NOTE]  
-> Development paused indefinitely. Please see: https://github.com/quexten/goldwarden/issues/331#issuecomment-3221660132
+> Development paused indefinitely. Since goldwarden had started, most features have been upstreamed
+> [SSH Items](https://github.com/bitwarden/clients/pull/10360), [SSH-Agent](https://github.com/bitwarden/clients/pull/10293), [Memory Security](https://github.com/bitwarden/clients/pull/9393), [Linux Biometric Unlock](https://github.com/bitwarden/clients/pull/4586) and FlatHub maintenance.
+>
+> Please see: https://github.com/quexten/goldwarden/issues/331#issuecomment-3221660132
 
 <img src="https://raw.githubusercontent.com/quexten/goldwarden/main/gui/com.quexten.Goldwarden.svg" width=200>
 
